@@ -4,4 +4,4 @@ Esta serie de libros cuentan la historia de un hacker único.
 
 Lorem Ipsum
 
-**Javier Finez**
+**Javier Finez**, cualquier otra cosa
